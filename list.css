@@ -1,15 +1,1 @@
-h1{text-align: center;
-	width: 500px;
-	color:blue;}
-h2{text-align: center;
-width:500px;
-color:green;
-font-family: Times New Roman;}
-p{width: 510px;
-font-size:17px; 
-font-family:arial;
-text-indent:50px;
-line-height:30px;}
-li{text-align:justify;
-width:400px;
-line-height:20px;}
+h1,p,h2{text-align: center;}
