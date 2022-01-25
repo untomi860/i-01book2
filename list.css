@@ -1,4 +1,6 @@
-p .bbb {
-	color: red;
-}
-p .eee{color:blue;}
+.zel{color:green;}
+.zel .kak{font-size: 40px;}
+.bel .net{font-size: 20px;}
+.bel{color:red;}
+.net{color:green;}
+.kak{color:blue;}
