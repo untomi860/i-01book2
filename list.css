@@ -1,6 +1,4 @@
-li:empty {
-	border: 1px solid red;
-	list-style-type: circle;
-	color: red;
-	width: 100px;
-}
+p:first-of-type {
+	color: red;}
+h2:last-of-type{color:red;}
+p:nth-of-type(2){color:blue;}
