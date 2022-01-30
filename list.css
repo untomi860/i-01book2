@@ -1,7 +1,2 @@
-#block h1.eee, #block h2.zzz {
+#eee h2, .xxx .kkk, .eee h2.zzz {
 	text-align: center;
-	font-size: 30px;
-}
-#block h2.zzz {color:red;
-	font-size: 20px;
-}
