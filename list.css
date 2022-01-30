@@ -1,6 +1,6 @@
-#block a.zzz {
-	color: red;
+.block a.zzz {
+	color: green;
 }
-#block a.zzz:hover {
+.block a.zzz:hover {
 	text-decoration: none;
 }
