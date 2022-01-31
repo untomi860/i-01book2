@@ -4,11 +4,11 @@
 	border: 1px solid red;
 }
 #child {
-	width:130px;
+	width:110px;
 	margin-top:    50px; /* сверху */
 	margin-right:  40px; /* справа */
 	margin-bottom: 30px; /* снизу */
-	margin-left:   10px; /* слева */
+	margin-left:   15px; /* слева */
 	
 	height: 75px;
 	border: 1px solid green;
