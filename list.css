@@ -1,7 +1,11 @@
-#elem {
+#parent {
 	width: 200px;
-	height: 150px;
-	color:white;
-	background-color: green; 
-	text-align:center;
+	border: 1px solid yellow;
+
+}
+#child {
+	height: 50px;
+	border: 1px solid blue;
+		border-style:dotted;
+	margin: 10px 60px 50px 30px;
 }
