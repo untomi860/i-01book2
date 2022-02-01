@@ -1,7 +1,10 @@
-#elem {
-	width: 200px;
-	height: 150px;
-	color:white;
-	background-color: green; 
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child {
+	padding: 10px;
+	border: 1px solid green;
+	margin-top:5px;
 	text-align:center;
 }
