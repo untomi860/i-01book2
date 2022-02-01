@@ -1,7 +1,7 @@
 .parent {
 	padding: 10px 0 ;
 	text-align:right;
-	border: 1px solid red;
+	border: 1px solid blue;
 }
 .child {
 	width: 100px;
