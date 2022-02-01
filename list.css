@@ -1,7 +1,20 @@
-#elem {
-	width: 200px;
-	height: 150px;
-	color:white;
-	background-color: green; 
-	text-align:center;
+.parent {
+	border: 1px solid red;
+	height:400px;
+	width:800px;
 }
+
+.child {
+	height: 100px;
+	width: 400px;
+	border: 1px solid cyan;
+	margin: 250px auto 20px ;
+}
+.ded {height: 80px;
+	width: 200px;
+	border: 1px solid blue;
+	margin: -90px auto 20px;}
+.reb{height: 80px;
+	width: 120px;
+	border: 1px solid purple;
+	margin: -90px auto;}
