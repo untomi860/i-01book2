@@ -3,7 +3,7 @@
 	padding:10px;
 	border: 1px solid red;
 }
-.child {
+.child {margin:30px;
 	width: 100px;
 	height: 50px;
 	border: 1px solid green;
