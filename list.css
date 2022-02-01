@@ -2,10 +2,9 @@
 	padding: 10px 0;
 	border: 1px solid red;
 }
-.child {
-	padding: 10px;
+.child {margin-left: 1450px;
 	padding: 10px 20px;
-	margin-left:1450px;
+	
 	border: 1px solid green;
 	display: inline-block;
 
