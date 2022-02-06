@@ -1,7 +1,23 @@
 #elem {
-	width: 200px;
-	height: 150px;
-	color:white;
-	background-color: green; 
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
 	text-align:center;
+	color:white;
+	line-height:50px;
+	font-size:25px;
+	border: 1px solid #d3dc1c;
+	background-color:#d3dc1c;
 }
+
+#content {
+	margin: 70px auto;
+	width: 600px;
+	text-align: justify;
+	font: 16px Times New Roman;
+	padding:20px;
+	border:1px solid black;
+}
+
