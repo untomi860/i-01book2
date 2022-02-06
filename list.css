@@ -8,10 +8,11 @@
 }
 #child {background-color: white;
     position: absolute;
-    left: 210px;
+    left: 205px;
     top: 200px;
-    width: 70px;
-    height: 70px;}
+    width: 90px;
+    height: 90px;
+border-radius:200px}
 #kid {
    background-color: white;
     position: absolute;
