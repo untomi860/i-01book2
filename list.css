@@ -3,7 +3,8 @@
 	width: 400px;
 	height: 300px;
 	margin: 0 auto;
-	border: 1px solid green;
+	border: 1px solid cyan;
+	background-color:cyan;
 }
 #child {
 	position: absolute;
@@ -11,5 +12,13 @@
 	left: 60px;
 	width: 80px;
 	height: 80px;
-	border: 1px solid red;
+	border: 1px solid white;
+	background-color:white;
 }
+#kid {position: absolute;
+	top: 140px;
+	left: 200px;
+	width: 80px;
+	height: 80px;
+	border: 1px solid white;
+background-color:white;}
