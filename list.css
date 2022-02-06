@@ -1,7 +1,24 @@
-#elem {
-	width: 200px;
-	height: 150px;
-	color:white;
-	background-color: green; 
-	text-align:center;
+#elem1 {position: relative;
+	left:10px;
+	top:80px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
 }
+#elem2 {position: relative;
+	left:30px;
+	top:40px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	
+	background-color: #7E89EB;
+}
+#elem3 {position: relative;
+	left:50px;
+	
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99
