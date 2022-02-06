@@ -1,7 +1,9 @@
 #elem {
-	width: 200px;
-	height: 150px;
-	color:white;
-	background-color: green; 
-	text-align:center;
+	position: absolute;
+	top:    100px;
+	right:  100px;
+	bottom: 100px;
+	left:   100px;
+	
+	border: 1px solid green;
 }
