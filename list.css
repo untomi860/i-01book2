@@ -1,24 +1,34 @@
 #parent {
 	position: relative;
-	width: 400px;
-	height: 300px;
+	width: 100px;
+	height: 200px;
 	margin: 0 auto;
-	border: 1px solid cyan;
-	background-color:cyan;
+	border: 1px solid black;
+	
 }
 #child {
 	position: absolute;
-	top: 60px;
-	left: 60px;
-	width: 80px;
-	height: 80px;
-	border: 1px solid white;
-	background-color:white;
+	top: 25px;
+	left: 30px;
+	width: 40px;
+	height: 40px;
+	border-radius:40px;
+	border: 1px solid black;
+	background-color:red;
 }
 #kid {position: absolute;
-	top: 140px;
-	left: 200px;
-	width: 80px;
-	height: 80px;
-	border: 1px solid white;
-background-color:white;}
+	top: 60px;
+	left: 0px;
+	width: 40px;
+	height: 40px;
+	border-radius:40px;
+	border: 1px solid black;
+	background-color:yellow;}
+#kid2{position:absolute;
+	top: 145px;
+	left: 31px;
+	width: 40px;
+	height: 40px;
+	border-radius:40px;
+	border: 1px solid black;
+	background-color:green;}
